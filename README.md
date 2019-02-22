@@ -30,7 +30,7 @@ A list of iOS 5.3 Fellows with links to their Github accounts
 
 ## N
 
-## Oniel rosario https://github.com/onielrosario
+## Oniel rosario https://github.com/BironSu/FourSquareClone/
 
 ## P
 
